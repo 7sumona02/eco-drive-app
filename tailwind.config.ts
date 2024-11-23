@@ -9,6 +9,11 @@ export default {
   theme: {
     extend: {
       colors: {
+        onyx: "#434344ff",
+        floralWhite: "#F6F2EAff",
+        platinum: "#E3E6E5ff",
+        jet: "#343434ff",
+        emerald: "#06CA7Aff",
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
