@@ -1,5 +1,6 @@
 import Features from '@/components/Features'
 import Hero from '@/components/Hero'
+import Pricing from '@/components/Pricing'
 import Testimonials from '@/components/Testimonials'
 import React from 'react'
 
@@ -9,6 +10,7 @@ const page = () => {
       <Hero />
       <Features />
       <Testimonials />
+      <Pricing />
     </div>
   )
 }
